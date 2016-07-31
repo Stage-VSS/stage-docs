@@ -5,11 +5,11 @@ Stage is an open source project and anyone is welcome to contribute. However, pl
 ## Instructions
 
 #### One-time Setup
-1. Fork the [stage2](https://github.com/Stage-VSS/stage2) repository
+1. Fork the [stage](https://github.com/Stage-VSS/stage) repository
 1. Clone your personal fork to your computer:  
-`git clone https://github.com/YOUR_USERNAME/stage2.git`
+`git clone https://github.com/YOUR_USERNAME/stage.git`
 1. Add a remote repository:  
-`git remote add upstream https://github.com/Stage-VSS/stage2.git`
+`git remote add upstream https://github.com/Stage-VSS/stage.git`
 
 ### General Workflow
 1. Sync your repo:  
