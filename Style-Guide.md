@@ -1,3 +1,5 @@
+# Style Guide
+
 Maintaining a consistent coding conventions helps keep the Stage codebase readable and maintainable. This style guide has been created to guide writing code for the project.
 
 ## Guidelines

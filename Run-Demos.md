@@ -1,3 +1,5 @@
+# Run Demos
+
 Stage includes a number of visual stimulus routines that demonstrate the capabilities of the toolbox.  It's often easiest to learn the system by simply running the demos and viewing the code.
 
 This tutorial shows you how to run and view the code for the included Stage demos.

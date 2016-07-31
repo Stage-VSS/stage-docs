@@ -1,5 +1,8 @@
-<!-- title: Stage -->
-<!-- description: Visual Stimulus System -->
+---
+description: Visual Stimulus System
+---
+
+# Stage
 
 Stage is a MATLAB based visual stimulus system for vision research. It provides a toolbox for writing visual stimulus routines.
 

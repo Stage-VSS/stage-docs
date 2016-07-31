@@ -1,3 +1,5 @@
+# Release Instructions
+
 Stage does not currently have an automated release system. These release instructions have been created in order to avoid mistakes while making a release.
 
 ## Instructions

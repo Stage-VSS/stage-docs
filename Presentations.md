@@ -1,4 +1,8 @@
-<!-- description: Create visual stimulus routines -->
+---
+description: Create visual stimulus routines
+---
+
+# Presentations
 
 A `Presentation` represents a collection of visual stimuli to present over a set duration. It generally describes a single experimental trial in Stage.
 

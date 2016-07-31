@@ -1,4 +1,8 @@
-<!-- description: Information for Stage developers -->
+---
+description: Information for Stage developers
+---
+
+# Stage Development
 
 <ul class="list-unstyled">
 <li><a href="Release-Instructions.md">Release Instructions</a></li>

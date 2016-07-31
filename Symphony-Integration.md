@@ -1,4 +1,8 @@
-<!-- description: Integrate Stage with Symphony -->
+---
+description: Integrate Stage with Symphony
+---
+
+# Symphony Integration
 
 ## Examples
 ### Rig Descriptions

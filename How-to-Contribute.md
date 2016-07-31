@@ -1,3 +1,5 @@
+# How to Contribute
+
 Stage is an open source project and anyone is welcome to contribute. However, please make sure your changes are relevant to all users to avoid bloating the common code. If you're unsure, create an issue to discuss. Also, please abide by the [style guide](Style-Guide.md).
 
 ## Instructions
