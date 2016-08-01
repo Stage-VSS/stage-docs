@@ -8,7 +8,7 @@ A `Presentation` represents a collection of visual stimuli to present over a set
 
 ## Tutorials
 <ul class="list-unstyled">
-<li><a href="Create-a-Presentation">Create a Presentation</a></li>
+<li><a href="Create-a-Presentation.md">Create a Presentation</a></li>
 </ul>
 
 ## Examples
