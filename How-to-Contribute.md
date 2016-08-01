@@ -4,7 +4,7 @@ Stage is an open source project and anyone is welcome to contribute. However, pl
 
 ## Instructions
 
-#### One-time Setup
+### One-time Setup
 1. Fork the [stage](https://github.com/Stage-VSS/stage) repository
 1. Clone your personal fork to your computer:  
 `git clone https://github.com/YOUR_USERNAME/stage.git`
