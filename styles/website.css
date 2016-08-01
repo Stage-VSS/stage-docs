@@ -3,3 +3,7 @@
 .markdown-section a {
   color: #82308b;
 }
+
+.book-summary ul.summary li.active > a {
+  color: #82308b;
+}
