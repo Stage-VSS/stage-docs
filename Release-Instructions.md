@@ -19,7 +19,7 @@ Stage does not currently have an automated release system. These release instruc
 1. Pull the latest stage repository changes and ensure everything is up-to-date by running: `git pull; git submodule foreach --recursive "(git checkout master; git pull)"; git status`
 1. Open MATLAB
 1. Change directory to the root stage directory
-1. Generate the documentation from the GitBook by running: `site`
+1. Generate the documentation from the docs repo by running: `site`
 1. Replace src/main/resources/docs with target/site
 1. Add the lib and src directory and their child directories to the MATLAB path
 1. Edit `stage.app.App` and make sure the version matches the next release version number (*this should generally be the same number used while building the server app*)
