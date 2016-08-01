@@ -1,1 +1,5 @@
 /* CSS for print */
+
+a {
+  color: #82308b !important;
+}
