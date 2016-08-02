@@ -1,8 +1,8 @@
 # System Requirements
 
 ### General
-- MATLAB R2013b+ (x64)
-- OS X 10.8+ or Windows 7 (x64)
+- MATLAB R2016a+ (x64)
+- OS X 10.8+ or Windows 7+ (x64)
 - OpenGL 3.2+
 
 ### Windows Specific
