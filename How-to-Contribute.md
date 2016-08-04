@@ -17,7 +17,7 @@ Stage is an open source project and anyone is welcome to contribute. However, pl
 1. Create a topic branch:  
 `git checkout -b TOPIC_BRANCH_NAME master`
 1. Make changes and commit:  
-`git commit -am "A description of my changes."` or `git commit -am "[fixed ISSUE_NUM] description"` (if fixing an issue tracked in GitHub)
+`git commit -am "A description of my changes."` or `git commit -am "[fixed #ISSUE_NUM] description"` (if fixing an issue tracked in GitHub)
 1. Push to GitHub:  
 `git push origin TOPIC_BRANCH_NAME`
 1. Submit a pull request
