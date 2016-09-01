@@ -7,7 +7,8 @@ description: Integrate Stage with Symphony
 ## Examples
 ### Rig Descriptions
 <ul class="list-unstyled">
-<li><a href="https://github.com/Stage-VSS/stage/blob/master/src/main/resources/symphony/%2Bio/%2Bgithub/%2Bstage_vss/%2Brigs/SimulatedDaqWithMultiClampAndStage.m">Simulated DAQ with MultiClamp and Stage</a></li>
+<li><a href="https://github.com/Stage-VSS/stage/blob/master/src/main/resources/symphony/%2Bio/%2Bgithub/%2Bstage_vss/%2Brigs/SimulatedHekaDaqWithMultiClampAndStage.m">Simulated HEKA DAQ with MultiClamp and Stage</a></li>
+<li><a href="https://github.com/Stage-VSS/stage/blob/master/src/main/resources/symphony/%2Bio/%2Bgithub/%2Bstage_vss/%2Brigs/SimulatedNiDaqWithMultiClampAndStage.m">Simulated National Instruments DAQ with MultiClamp and Stage</a></li>
 </ul>
 
 ### Protocols
